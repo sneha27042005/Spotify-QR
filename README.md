@@ -1,5 +1,9 @@
 # Spotify-QR 🎵
 
+## 🌐 Live Website
+👉 [Visit My Project](http://frabjous-moonbeam-efe9e7.netlify.app)
+
+
 A simple web app that generates a Spotify QR code with musical styling.
 
 ## 🛠️ Built With
